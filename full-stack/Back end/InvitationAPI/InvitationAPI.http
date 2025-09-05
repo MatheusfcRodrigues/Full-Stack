@@ -1,0 +1,6 @@
+@InvitationAPI_HostAddress = http://localhost:5232
+
+GET {{InvitationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
