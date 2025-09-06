@@ -22,7 +22,7 @@ Este é um projeto **full stack** desenvolvido com **C# no back-end** e **React 
 - Interface SPA desenvolvida em **React**  
 - Consumo da API usando **Axios**  
 - Organização em camadas (Controllers, Services, Models)  
-- Interface estilizada com **CSS Modules / Tailwind (se aplicável)**  
+- Interface estilizada com **CSS**
 
 ---
 
@@ -31,13 +31,11 @@ Este é um projeto **full stack** desenvolvido com **C# no back-end** e **React 
 ### Back-end
 - [.NET 6](https://dotnet.microsoft.com/en-us/)  
 - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)  
-- [SQL Server](https://www.microsoft.com/sql-server)  
-- [Swagger](https://swagger.io/)  
+- [SQL Server](https://www.microsoft.com/sql-server)    
 
 ### Front-end
 - [React](https://react.dev/)  
 - [Axios](https://axios-http.com/)  
-- [React Router](https://reactrouter.com/)  
 
 Obrigado!
 
