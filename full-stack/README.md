@@ -4,10 +4,10 @@
 
 ## Linguagens do Projeto
 
-- **C# → Back-end com .NET 6 e Entity Framework  
-- **CSS → Estilização da interface React  
-- **JavaScript → Lógica e componentes do React  
-- **React JSX** → Estrutura da aplicação (não HTML puro)  
+- C# → Back-end com .NET 6 e Entity Framework  
+- CSS → Estilização da interface React  
+- JavaScript → Lógica e componentes do React  
+- React JSX → Estrutura da aplicação (não HTML puro)  
 
 ---
 
