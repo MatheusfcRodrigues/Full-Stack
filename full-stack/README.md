@@ -18,7 +18,6 @@
 - Interface SPA desenvolvida em **React**  
 - Consumo da API usando **Axios**  
 - Organização em camadas (Controllers, Services, Models)  
-- Interface estilizada com **CSS Modules / Tailwind (se aplicável)**  
 
 ---
 
