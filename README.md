@@ -1,17 +1,14 @@
 # 📌 Projeto Full Stack - C# + Entity Framework + SQL Server + React
-
-Este é um projeto **full stack** desenvolvido com **C# no back-end** e **React no front-end**, utilizando **Entity Framework** para persistência de dados em **SQL Server**.  
-
 ---
 
 ## 📊 Linguagens do Projeto
 
 ![Linguagens](./assets/languages.png)
 
-- **C# (59.1%)** → Back-end com .NET 6 e Entity Framework  
-- **CSS (17.3%)** → Estilização da interface React  
-- **JavaScript (16.9%)** → Lógica e componentes do React  
-- **React JSX** → Estrutura da aplicação (não HTML puro)  
+- C#  → Back-end com .NET 6 e Entity Framework  
+- CSS → Estilização da interface React  
+- JavaScript → Lógica e componentes do React  
+- React JSX → Estrutura da aplicação (não HTML puro)  
 
 ---
 
