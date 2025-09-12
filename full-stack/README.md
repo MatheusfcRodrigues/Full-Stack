@@ -30,7 +30,6 @@
 ### Front-end
 - [React](https://react.dev/)  
 - [Axios](https://axios-http.com/)  
-- [React Router](https://reactrouter.com/)  
 
 Obrigado!
 
