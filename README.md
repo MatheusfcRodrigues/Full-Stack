@@ -1,9 +1,7 @@
 # 📌 Projeto Full Stack - C# + Entity Framework + SQL Server + React
 ---
 
-## 📊 Linguagens do Projeto
-
-![Linguagens](./assets/languages.png)
+##  Linguagens do Projeto
 
 - C#  → Back-end com .NET 6 e Entity Framework  
 - CSS → Estilização da interface React  
